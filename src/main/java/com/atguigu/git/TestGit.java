@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("master");
         System.out.println("hot-fix 123");
         System.out.println("pull test");
+        System.out.println("pull test");
     }
 }
